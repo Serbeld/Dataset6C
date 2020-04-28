@@ -50,7 +50,7 @@ Size:
 
 You can find an example of implementation in the following link: 
     
-https://github.com/Serbeld/Dataset5C/blob/master/Data_6C.ipynb
+https://github.com/Serbeld/Dataset6C/blob/master/Data_6C.ipynb
 
 # How to download it
 
